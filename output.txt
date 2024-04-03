@@ -1,0 +1,8 @@
+Sum = 55
+Error: java.lang.NumberFormatException: For input string: ""
+Sum = -1
+Sum = 30
+Sum = 0
+Error: java.lang.NumberFormatException: For input string: "Hello,"
+Error: java.lang.NumberFormatException: For input string: "Bob"
+Sum = 64
